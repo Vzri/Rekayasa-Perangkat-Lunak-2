@@ -1,0 +1,2 @@
+Vidio  : Sekelompok hadir,ada wajah, 5-10 menit,kemeja,menejalaskan Logika Program dan Menjalankan Programnya.
+Projek : Crud,ORM Hibernate, Framework SPring, Harus ada JFormnya, setiap kelompok beda temanya.
